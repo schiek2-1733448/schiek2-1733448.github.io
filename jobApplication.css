@@ -1,0 +1,51 @@
+body {
+    background-image: url(http://woltermanortho.com/wp-content/uploads/parser/blue-tie-dye-background-1.jpg)
+}
+
+h2 {
+    font-size: 60px;
+    font-family: arial;
+    font-weight: bold;
+    color: white;
+}
+
+legend {
+    color: white; 
+    font-size: 40px;
+}
+
+.form-group {
+    background-color:cornflowerblue;
+}
+
+.col-sm-3 {
+    font-family: arial;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+.form-controls {
+    width:500px;
+}
+
+p {
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    float: left;
+    opacity: .8;
+    padding:25px;
+}
+
+ul {
+    color: white;
+    font-size: 15px;
+    font-family: arial;
+    list-style-type: disc;
+    text-align:left;
+}
